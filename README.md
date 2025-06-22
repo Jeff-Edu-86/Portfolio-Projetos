@@ -7,8 +7,9 @@ Este repositório reúne projetos desenvolvidos em **Power BI** e **Excel**, com
 ## 📁 Projetos disponíveis
 
 ### 🔷 Power BI
-- [Dashboard-RH01 - People Analytics ](./powerbi/Dashboard-RH01/) - Se quiser acessar o relatório online: https://app.powerbi.com/reportEmbed?reportId=6d6e58c9-ff66-45df-bde8-71604d97bb2c&autoAuth=true&ctid=5cd2a2f8-9f34-45f5-aae4-de143f507f5b   
-- 
+- [Dashboard-RH01 - People Analytics ](./powerbi/Dashboard-RH01/)
+  >> Para acessar o relatório online: https://app.powerbi.com/reportEmbed?reportId=6d6e58c9-ff66-45df-bde8-71604d97bb2c&autoAuth=true&ctid=5cd2a2f8-9f34-45f5-aae4-de143f507f5b   
+  
 
 ### 🟢 Excel
 - 
