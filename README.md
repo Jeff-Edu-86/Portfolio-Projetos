@@ -1,2 +1,31 @@
-# Portifolio-Projetos
-Portfólio de projetos em People Analytics, Business Intelligence e Data Analytics com dashboards, relatórios e scripts em Python, Excel e Power BI, ente outros.
+# 📊 Portfólio de Projetos – Jeff
+
+Este repositório reúne projetos desenvolvidos em **Power BI** e **Excel**, com foco em Análise de Dados, People Analytics,  Indicadores Estratégicos e Automação de Processos.
+
+---
+
+## 📁 Projetos disponíveis
+
+### 🔷 Power BI
+- [Dashboard Populacional de Sorocaba](./powerbi/dashboard-populacional/)
+- [Indicadores de Segurança do Trabalho](./powerbi/dashboard-acidentes/)
+
+### 🟢 Excel
+- [Controle de Metas de Vendas](./excel/controle-metas-vendas/)
+
+
+## 🧰 Tecnologias Utilizadas
+- Power BI Desktop
+- Excel / Google Planilhas
+- Python (Pandas, Matplotlib, etc.)
+
+---
+
+## 👤 Sobre mim
+
+Sou Analista de People Analytics com experiência em Segurança do Trabalho e foco atual em Business Intelligence.  
+📎 [LinkedIn](https://www.linkedin.com/in/jeffersonmorini/)  
+
+---
+
+Sinta-se à vontade para explorar os projetos! Feedbacks são bem-vindos.
