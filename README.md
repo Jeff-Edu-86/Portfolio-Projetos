@@ -14,8 +14,7 @@ Dashboard interativo com análise de:
 - Demografia organizacional
 - Turnover
 - Banco de Horas
-- Recrutamento e Seleção
-- Gestão Orçamentária de RH
+
 
 📎 **Acesse o relatório online no Power BI:**  
 👉 [Clique aqui para visualizar o dashboard publicado](https://app.powerbi.com/reportEmbed?reportId=6d6e58c9-ff66-45df-bde8-71604d97bb2c&autoAuth=true&ctid=5cd2a2f8-9f34-45f5-aae4-de143f507f5b)
