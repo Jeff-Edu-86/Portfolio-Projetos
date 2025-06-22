@@ -1,0 +1,15 @@
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários de Power BI
+*.pbix.autosave
+
+# Backups temporários de Excel
+~$*
+
+# Arquivos ocultos de macOS
+.DS_Store
+
+# Configurações locais do VS Code (se usar)
+.vscode/
