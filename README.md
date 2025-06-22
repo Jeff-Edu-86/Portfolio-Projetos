@@ -1,4 +1,4 @@
-# 📊 Portfólio de Projetos – Jeff
+# 📊 Portfólio de Projetos – Jefferson E. Morini
 
 Este repositório reúne projetos desenvolvidos em **Power BI** e **Excel**, com foco em Análise de Dados, People Analytics,  Indicadores Estratégicos e Automação de Processos.
 
