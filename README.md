@@ -7,11 +7,11 @@ Este repositório reúne projetos desenvolvidos em **Power BI** e **Excel**, com
 ## 📁 Projetos disponíveis
 
 ### 🔷 Power BI
-- [Dashboard Populacional de Sorocaba](./powerbi/dashboard-populacional/)
-- [Indicadores de Segurança do Trabalho](./powerbi/dashboard-acidentes/)
+- [Dashboard-RH01 - People Analytics ](./powerbi/Dashboard-RH01/)
+- 
 
 ### 🟢 Excel
-- [Controle de Metas de Vendas](./excel/controle-metas-vendas/)
+- 
 
 
 ## 🧰 Tecnologias Utilizadas
